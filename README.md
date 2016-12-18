@@ -1,5 +1,8 @@
 # Angular Kickstart
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f4ac2c234d7b429bb1580004f046cc31)](https://www.codacy.com/app/tungnv9999/Angular-Kickstart?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tungnv9999/Angular-Kickstart&amp;utm_campaign=badger)
+
 Angular Boiler Plate Application
 
 **[ View the example page](http://jeremymorgan.github.io/Angular-Kickstart/#/)**
